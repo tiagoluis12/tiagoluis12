@@ -1,6 +1,6 @@
 ### Hi folks 👋
 
-- 🌱 I’m a Business IT specialism Student - 
+- 🌱 I’m FullStack Developer with | React.Js | Node.Js - 
 - 📫 Contact - me by e-mail: tiago7164@hotmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
