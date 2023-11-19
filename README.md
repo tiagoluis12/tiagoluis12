@@ -2,7 +2,7 @@
 ## Welcome to my GitHub Profile.
 
 ## About me
-I am a business student with IT specialism in JavaScript, TypeScript, NodeJS, SQL, and NoSQL databases, familiar with agile methodologies and data structures. With five years of Management and Leadership in the food industry. I recently transitioned into a Software Engineer, working as a volunteer and self-employed. I'm a dynamic & quick-thinking problem solver and collaborative creative with a proven track record of teamwork.
+I am a business technology student focusing on software engineering. Knowledge in JavaScript, TypeScript, NodeJS, SQL, and NoSQL databases, familiar with agile methodologies and data structures. With five years of Management and Leadership in the food industry. I recently transitioned into a Software Engineer, working as a volunteer and self-employed. I'm a dynamic & quick-thinking problem solver and collaborative creative with a proven track record of teamwork.
 
 - 📫 Contact - me by e-mail: tiago7164@hotmail.com
 - ⚡ Fun fact: ...
