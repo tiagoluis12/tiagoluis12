@@ -1,10 +1,7 @@
 ### Hi folks 👋
 ## Welcome to my GitHub Profile.
 
-## About me
-An accomplished academic and professional trajectory characterised by a strong foundation in business and technology, with a particular focus on computing and data-driven systems. Proficient in C#, .NET, Python, R, JavaScript, TypeScript, Node.js, SQL, and NoSQL, with academic experience in Machine Learning, Statistical Computing, and Text & Sequence Analytics. Complemented by five years of leadership experience in the food industry, demonstrating strong management capabilities and a consistent track record of delivering impactful outcomes.
-
-- 📫 Contact - me by e-mail: tiago7164@hotmail.com
+- Contact - me by Linkedin: www.linkedin.com/in/tiagoluis12
 -->
 
 <div>
